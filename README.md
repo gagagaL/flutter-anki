@@ -18,3 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 ## 使いたい技術  
   
 firebase
+
+## TODO
+
+- [ ] firebase
+- [ ] トップ画面
+- [ ] タグ登録画面
+- [ ] 語句、回答、タグのセット登録画面
+- [ ] 記憶画面 タグモード(複数可能)
+- [ ] 記憶画面 総タグモード
+
